@@ -1,0 +1,88 @@
+button{
+    width:100%;
+    background-color: #449944;
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    height: 45px;
+    color: white;
+    text-decoration: white;
+    background-image: linear-gradient(#57b157,#469c46);
+
+}
+input[type=Password]{
+    width: 100%;
+    background-color: white;
+    height: 35px;
+    border:#E8E8E8 2px solid;
+    
+}
+input[type=text]{
+    width: 100%;
+    background-color: white;
+    height: 35px;
+    border:#E8E8E8 2px solid;
+    color: 	#282828;
+}
+input[type=text1]{
+    background-color: white;
+    height: 35px;
+    width: 49%;
+    border:#E8E8E8 2px solid;
+    color:	#282828;
+}
+
+input[type=text2]{
+   
+    background-color: white;
+    height: 35px;
+    width:49%;
+    border:#E8E8E8 2px solid;
+}
+input[type=checkbox]{
+    background-color:grey;
+    border:#E8E8E8 2px solid;
+
+}
+h1{
+    text-align:center;
+    color:	#282828 5px solid;
+
+     
+    
+    
+}
+form{
+    width: 400px;
+    height: 450px;
+    display: block;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+
+}
+
+
+
+a{
+    color: green;
+}
+#signin{
+    text-align: center;
+    margin-right: auto;
+    margin-right: auto;
+    color: white;
+}
+#createacc{
+    text-align: center;
+    color:#D3D3D3;
+}
+body{
+    background-color: #637288;
+}
+#s{
+    color: white;
+}
+
+   

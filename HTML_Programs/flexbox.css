@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif,arial;
+
+}
+#Container{
+    background-color: darkolivegreen;
+    width:90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid #003049;
+    display: flex;
+    flex-direction:row;
+   /* justify-content:space-between;
+    flex-wrap: wrap-reverse;In this css file there are many function if you 
+    want to run then remove the commend
+    align-items: flex-end;
+    align-content: center;*/
+    flex-basis: 400px;
+}
+#Container div{
+    width: 200px;
+    height: 200px;
+   
+}
+/*div:nth-of-type(2){
+    align-self: center;
+
+}
+div:nth-of-type(3){
+    align-self: flex-end;
+
+}
+div:nth-of-type(5){
+    align-self: flex-start;}*/
+    div:nth-of-type(5){
+        flex-grow: 1;
+    }

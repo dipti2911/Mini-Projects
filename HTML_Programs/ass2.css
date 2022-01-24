@@ -1,0 +1,12 @@
+label{
+    background-color: violet;
+}
+input [type="password"]{
+    color:red;
+}
+button:hover{
+
+    background-color: brown;
+    color: burlywood;
+    font-size: 10px;
+}

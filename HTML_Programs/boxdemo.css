@@ -1,0 +1,74 @@
+div{
+    width: 500px;
+    height: 300px;
+    background-color: darkolivegreen;
+    margin-left: 250px;
+    border-width: 5px;
+    border-style: dotted;
+   
+    
+   
+}
+head{
+    color: darkorange;
+}
+h1{
+    background-color: forestgreen;
+    padding: 10px;
+  
+   
+}
+button{
+    background-color:blue;
+    color:white;
+    margin-top: 20px;
+  
+  
+    
+    
+
+}
+button:hover
+{
+    background-color:lightskyblue;
+    color: darkcyan;
+    margin-left: 100px;
+    
+}
+label{
+    margin-left: 150px;
+}
+#no{
+    margin-left:10px;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+    border-color: darkblue;
+ 
+}
+#yes{
+    margin-left: 150px;
+    border-width: 5px;
+    border-color: cornflowerblue;
+    border-radius: 20px;
+    border-color: darkorchid;
+   
+   
+}
+span{
+    background-color: goldenrod;
+    border: 1px sandybrown;
+    margin: 50px;
+    padding: 10px;
+}
+span:hover{
+    background-color: sienna;
+    color: slategrey;
+}
+
+
+
+
+
+
+
